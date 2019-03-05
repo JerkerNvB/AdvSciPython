@@ -1,7 +1,5 @@
 
-##from birds import Birds 
-##from mammals import Mammals
+from . import harmless
+from . import dangerous
 
-from birds import Birds
-from mammals import Mammals
-from fish import Fish
+from .mammals import Mammals

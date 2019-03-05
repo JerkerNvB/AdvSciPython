@@ -8,6 +8,6 @@ class Birds:
         """
         Print the birds
         """
-        print "bofink"
+        print ("bofink")
     
     
