@@ -8,4 +8,4 @@ class Mammals:
         """
         Print the members of the module
         """
-        print "lo varg"
+        print ("lo varg")
