@@ -1,7 +1,7 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 #cython: language_level=3
 
 import helloworld
 
 helloworld.foo()
-print ("done wtf")
+print ("done")
