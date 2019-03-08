@@ -2,8 +2,7 @@ language: python
 python:
  -	"2.7"
  - 	"3.6"
-#install:
-# -	"pip install -r requirements.txt"
-#script:
-# -	sh -c 'cd project && pytest'
- 
+install:
+ -	"pip install -r requirements.txt"
+script:
+ -	sh -c 'cd project && pytest'
